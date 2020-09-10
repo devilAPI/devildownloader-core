@@ -4,7 +4,7 @@ const ytdl = require('ytdl-core');
 const app = express();
 app.use('/static', express.static('./static'));
 
-app.listen(3000, () => {
+app.listen(80, () => {
     console.log("DevilDownloader is running!");
 });
 
