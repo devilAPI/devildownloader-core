@@ -16,6 +16,12 @@
     "m3u8stream": "^0.7.1",
     "m3u8stream/lib/parse-time": "^0.1.4"
   },
+  
   "devDependencies": {},
   "keywords": []
+}
+{
+  "engines": {
+    "node": "12.x"
+  }
 }
